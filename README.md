@@ -6,4 +6,4 @@ Coverage of devices/consoles is haphazard, and each of the four collections incl
 Note that some systems have alternate versions included (denoted with hopefully self-explanatory suffixes). If you wish to use one of the alternate versions, simply delete or rename the main version and remove the suffix from the filename of your chosen version. For example, if you want to use the SP version of the 640x480 GBA overlay, you could first rename gba-640x480.png to gba-640x480_no_sp.png (or whatever) and then rename gba-640x480_sp.png to gba-640x480.png.
 
 # [Bootlogos](https://github.com/mugwomp93/Knulli_Customization/tree/main/bootlogos)
-A small selection of 640x480 and 720x720 Knulli-themed bootlogos. Just copy the bootllogo of your choice to the KNULLI partition of SD1. Make sure to back up your existing bootlogo first since it will be overwritten.
+A small selection of 640x480 and 720x720 [Knulli-themed bootlogos](https://github.com/mugwomp93/Knulli_Customization/tree/main/bootlogos). Just copy the bootllogo of your choice to the KNULLI partition of SD1. Make sure to back up your existing bootlogo first since it will be overwritten.
