@@ -1,0 +1,1 @@
+To install custom bootlogos, just copy the bootlogo of your choice to the KNULLI partition of SD1 (as per the [Knulli wiki](https://knulli.org/configure/customization/bootlogo/)). Note that as of Scarab, the batocera partition has been renamed to KNULLI, so that part of the wiki is out of date. Make sure to back up your existing bootlogo first since it will be overwritten.
