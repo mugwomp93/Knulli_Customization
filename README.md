@@ -32,4 +32,4 @@ There's also a Scarab version of the GB bootlogo available (similar to the 720x7
 
 ### [720x720](https://github.com/mugwomp93/Knulli_Customization/tree/main/bootlogos/720x720)<br>
 <img width="1600" height="820" alt="720x720_bootlogos" src="https://github.com/user-attachments/assets/b40f29b1-cb52-47ec-9336-d140a404c1a9" /><br>
-There also are a couple of other versions of the Neo Geo-style logo available (circle logo, plain black background), but this one is my favorite. The background image in the Neo Geo bootlogo is adapted from ivancristina's [vectorized version](https://github.com/ivancristina/ArcadeSketches) of angel77lopez's [arcade logos artwork](https://forums.pimoroni.com/t/new-artwork-for-picade-cabinet/2618/495). 
+There are also a couple of other versions of the Neo Geo-style logo available (circle logo, plain black background), but this one is my favorite. The background image in the Neo Geo bootlogo is adapted from ivancristina's [vectorized version](https://github.com/ivancristina/ArcadeSketches) of angel77lopez's [arcade logos artwork](https://forums.pimoroni.com/t/new-artwork-for-picade-cabinet/2618/495). 
